@@ -1,6 +1,7 @@
 import socket
 
 host='192.168.0.100' #host pi's ip address
+#I used ras2 in my setup use the command hostname -I to check for ip host
 port=1444 #host pi's port number
 
 addr=(host,port)
