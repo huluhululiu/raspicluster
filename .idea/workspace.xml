@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="168bfb9d-d7a3-4a2e-bb4b-d11083646541" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/udp-client.py" afterPath="$PROJECT_DIR$/udp-client.py" />
-      <change beforePath="$PROJECT_DIR$/udp-server.py" afterPath="$PROJECT_DIR$/udp-server.py" />
+      <change beforePath="$PROJECT_DIR$/Studio12/s12q5.c" afterPath="$PROJECT_DIR$/Studio12/s12q5.c" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
